@@ -10,5 +10,14 @@
 - **Subject Name**: Web Application Design
 - **Professor**: Tomás Guillermo Desmond Bravo
 
-## What is Markdown?
-Markdown is a lightweight markup language that allows you to format text using a simple syntax. It is mainly used to create documentation, write READMEs for projects, blogs, and other documents that need to be readable in both plain text and HTML.
+# ¿Qué es Markdown?
+Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto. Es comúnmente usado en archivos README, documentación y mensajes en plataformas como GitHub. Markdown es fácil de leer y escribir, y puede convertirse a HTML.
+
+## Opciones de Etiquetado en Markdown
+Markdown ofrece varias opciones para formatear texto. Aquí hay algunas de las más utilizadas:
+
+### Encabezados
+```markdown
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
